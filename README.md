@@ -1,5 +1,5 @@
 # Music Store
 
-![](https://github.com/mostafamt/musicStore/screenshots/1.png)
+![](https://github.com/mostafamt/musicStore/blob/master/screeenshots/1.png)
 
-![](https://github.com/mostafamt/musicStore/screenshots/2.png)
+![](https://github.com/mostafamt/musicStore/blob/master/screeenshots/2.png)
