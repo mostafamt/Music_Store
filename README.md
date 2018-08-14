@@ -4,10 +4,11 @@
 
 ![](https://github.com/mostafamt/musicStore/blob/master/screeenshots/2.png)
 
-## dependencies :
-1) java EE .
-2) Xampp - mysql v5.7.1 .
-3) servlet 
-4) jsp
-5) netbeans IDE .
-6) mysql-connectorJ .
+### dependencies :
+* java EE .
+* apache-tomcat-8.0.27 .
+* Xampp - mysql v5.7.1 .
+* servlet 
+* jsp
+* netbeans IDE .
+* mysql-connectorJ .
