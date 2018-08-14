@@ -4,7 +4,7 @@
 
 ![](https://github.com/mostafamt/musicStore/blob/master/screeenshots/2.png)
 
-dependencies :
+## dependencies :
 1) java EE .
 2) Xampp - mysql v5.7.1 .
 3) servlet 
